@@ -1,7 +1,7 @@
 # Technical_Test_Entain
 
 # Install Cypress via npm:
-cd /your/project/path
+cd cypress-tests
 
 npm install cypress --save-dev
 
