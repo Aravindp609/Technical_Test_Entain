@@ -1,0 +1,16 @@
+{
+  "name": "cypress-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress_headless" : "cypress run --headless",
+    "cypress" : "cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
